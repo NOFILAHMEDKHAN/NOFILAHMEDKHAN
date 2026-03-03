@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nofil%20Ahmed%20Khan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=🤖%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20ML%20Developer&descAlignY=60&descColor=a0d8ef&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nofil%20Ahmed%20Khan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=🤖%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Data%20Analyst&descAlignY=60&descColor=a0d8ef&animation=twinkling" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=🤖+Building+Intelligent+AI+Systems;🦜+LangChain+%2B+Gemini+Agent+Developer;📊+Predictive+ML+%26+AQI+Engineer;🎓+NED+University+%7C+CGPA+3.671;🏅+Huawei+Datacom+Certified;🚀+Open+to+AI%2FML+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=🤖+Building+Intelligent+AI+Solutions;💡+Turning+Data+into+Decisions;🧠+Teaching+Machines+to+Think;🚀+Open+to+AI%2FML+Opportunities;🌍+Building+the+Future+with+AI)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khannofil)
-[![GitHub](https://img.shields.io/badge/GitHub-%40NOFILAHMEDKHAN-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NOFILAHMEDKHAN)
-[![Gmail](https://img.shields.io/badge/Gmail-nofil2012@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nofil2012@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/khannofil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khannofil)
+[![GitHub](https://img.shields.io/badge/NOFILAHMEDKHAN-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NOFILAHMEDKHAN)
+[![Gmail](https://img.shields.io/badge/nofil2012@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nofil2012@gmail.com)
 
 <br/>
 
@@ -29,7 +29,7 @@
 class NofilAhmedKhan:
 
     name            = "Nofil Ahmed Khan"
-    role            = "AI Engineer & Data Scientist"
+    role            = "AI / ML Engineer"
     university      = "NED University of Engineering & Technology, Karachi"
     cgpa            = 3.671
     batch           = "Oct 2022 – Jun 2026"
@@ -38,18 +38,11 @@ class NofilAhmedKhan:
     focus_areas     = ["AI Agents", "Machine Learning", "Data Science", "NLP", "Computer Vision"]
 
     currently_doing = [
-        "🏢 AI Integration Intern @ NASFIA",
-        "   ↳ Integrating AI-powered automated grading on the TAO assessment platform",
+        "🏢 AI Intern @ NASFIA",
+        "   ↳ Integrating AI-powered grading on the TAO assessment platform",
         "🔬 Ex Data Science Intern @ 10Pearls — AQI Prediction System",
         "📊 Ex Data Analyst Intern @ Instec Digital Systems",
         "🎓 Final Year CS Student @ NED University",
-    ]
-
-    certifications  = [
-        "🏅 Huawei Datacom Certified",
-        "🤖 Generative AI Fundamentals  —  Databricks Academy",
-        "🦜 Introduction to LangChain (Python)  —  LangChain Academy",
-        "📊 Supervised Learning with Scikit-Learn  —  DataCamp",
     ]
 
     achievement     = "🏆 PM Youth Laptop Scheme — Awarded for Top Departmental Merit"
@@ -112,12 +105,12 @@ class NofilAhmedKhan:
 <table width="100%">
 <tr>
 <td>🏢</td>
-<td><strong>NASFIA</strong> — AI Integration Intern</td>
+<td><strong>NASFIA</strong> — AI Intern</td>
 <td align="right"><code>Current 2026</code></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">↳ Integrating AI-powered automated grading on the TAO open-source assessment platform. Building NLP pipelines to evaluate student responses, automate scoring, and streamline e-learning workflows for smarter education systems.</td>
+<td colspan="2">↳ Integrating AI-powered automated grading on the TAO open-source assessment platform. Building NLP pipelines to evaluate student responses, automate scoring, and streamline e-learning workflows.</td>
 </tr>
 <tr><td colspan="3"><br/></td></tr>
 <tr>
@@ -224,8 +217,8 @@ class NofilAhmedKhan:
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khannofil)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NOFILAHMEDKHAN)
+[![LinkedIn](https://img.shields.io/badge/khannofil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khannofil)
+[![GitHub](https://img.shields.io/badge/NOFILAHMEDKHAN-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NOFILAHMEDKHAN)
 [![Email](https://img.shields.io/badge/nofil2012@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nofil2012@gmail.com)
 
 <br/><br/>
