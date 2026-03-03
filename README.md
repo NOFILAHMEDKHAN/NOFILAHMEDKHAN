@@ -214,6 +214,12 @@ class NofilAhmedKhan:
 
 <br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-khannofil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khannofil)
+[![GitHub](https://img.shields.io/badge/GitHub-NOFILAHMEDKHAN-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NOFILAHMEDKHAN)
+
+<br/>
+
+✉️ **Email at:** &nbsp; `nofil2012@gmail.com`
 
 <br/><br/>
 
@@ -223,4 +229,4 @@ class NofilAhmedKhan:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-</div>
+</div>s
