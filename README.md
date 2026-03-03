@@ -214,6 +214,8 @@ class NofilAhmedKhan:
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--nofil.netlify.app-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://portfolio-nofil.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://portfolio-nofil.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-khannofil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khannofil)
 [![GitHub](https://img.shields.io/badge/GitHub-NOFILAHMEDKHAN-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NOFILAHMEDKHAN)
 
@@ -229,4 +231,4 @@ class NofilAhmedKhan:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-</div>s
+</div>
