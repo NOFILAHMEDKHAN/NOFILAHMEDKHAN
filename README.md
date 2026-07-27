@@ -28,15 +28,15 @@ class NofilAhmedKhan:
     name            = "Nofil Ahmed Khan"
     role            = "AI / ML Engineer"
     university      = "NED University of Engineering & Technology, Karachi"
-    cgpa            = 3.671
+    cgpa            = 3.721
     batch           = "Oct 2022 – Jun 2026"
     location        = "Karachi, Pakistan 🇵🇰"
 
     focus_areas     = ["AI Agents", "Machine Learning", "Data Science", "NLP", "Computer Vision"]
 
     currently_doing = [
-        "🏢 AI Intern @ NASFIA",
-        "   ↳ Integrating AI-powered grading on the TAO assessment platform",
+        "📈 Data Analyst Intern @ AGP Limited",
+        "   ↳ Building Power BI dashboards & Excel data models for field-force sales/incentive reporting",
         "🔬 Ex Data Science Intern @ 10Pearls — AQI Prediction System",
         "📊 Ex Data Analyst Intern @ Instec Digital Systems",
         "🎓 Final Year CS Student @ NED University",
@@ -101,13 +101,13 @@ class NofilAhmedKhan:
 
 <table width="100%">
 <tr>
-<td>🏢</td>
-<td><strong>NASFIA</strong> — AI Intern</td>
-<td align="right"><code>Current 2026</code></td>
+<td>📈</td>
+<td><strong>AGP Limited</strong> — Data Analyst Intern</td>
+<td align="right"><code>Jul 2026 – Aug 2026</code></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">↳ Integrating AI-powered automated grading on the TAO open-source assessment platform. Building NLP pipelines to evaluate student responses, automate scoring, and streamline e-learning workflows.</td>
+<td colspan="2">↳ Built Power BI dashboards and relational Excel data models to analyze large-scale field-force sales, incentive, and doctor-visit data — including doctor record de-duplication, region-wise call tracking, and multi-file consolidation to support accurate, data-driven reporting.</td>
 </tr>
 <tr><td colspan="3"><br/></td></tr>
 <tr>
