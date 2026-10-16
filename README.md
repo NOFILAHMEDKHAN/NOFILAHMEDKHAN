@@ -36,7 +36,7 @@ class NofilAhmedKhan:
 
     currently_doing = [
         "💼 Management Trainee Officer @ AGP Limited",
-        "   ↳ Developed an internal web portals serving 2000+f field force & departmental task management system; also working on automation, analytics & AI-focused development",
+        "   ↳ Developed web portals serving 2000+ field force & departmental task management system; also working on automation, analytics & AI-focused development",
         "📈 Ex Data Analyst Intern @ AGP Limited",
         "🔬 Ex Data Science Intern @ 10Pearls — AQI Prediction System",
         "📊 Ex Data Analyst Intern @ Instec Digital Systems",
