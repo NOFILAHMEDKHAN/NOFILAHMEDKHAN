@@ -35,11 +35,12 @@ class NofilAhmedKhan:
     focus_areas     = ["AI Agents", "Machine Learning", "Data Science", "NLP", "Computer Vision"]
 
     currently_doing = [
-        "📈 Data Analyst Intern @ AGP Limited",
-        "   ↳ Building Power BI dashboards & Excel data models for field-force sales/incentive reporting",
+        "💼 Management Trainee Officer @ AGP Limited",
+        "   ↳ Applying Power BI & Excel data models to field-force sales/incentive reporting",
+        "📈 Ex Data Analyst Intern @ AGP Limited",
         "🔬 Ex Data Science Intern @ 10Pearls — AQI Prediction System",
         "📊 Ex Data Analyst Intern @ Instec Digital Systems",
-        "🎓 Final Year CS Student @ NED University",
+        "🎓 CS Graduate @ NED University (CGPA 3.721)",
     ]
 
     achievement     = "🏆 PM Youth Laptop Scheme — Awarded for Top Departmental Merit"
@@ -71,6 +72,7 @@ class NofilAhmedKhan:
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-222222?style=for-the-badge&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
@@ -78,6 +80,14 @@ class NofilAhmedKhan:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+<br/>
+
+**📊 Analytics & BI**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 <br/>
 
@@ -89,7 +99,6 @@ class NofilAhmedKhan:
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
@@ -100,6 +109,16 @@ class NofilAhmedKhan:
 ## 💼 Experience
 
 <table width="100%">
+<tr>
+<td>💼</td>
+<td><strong>AGP Limited</strong> — Management Trainee Officer</td>
+<td align="right"><code>Sep 2026 – Present</code></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">↳ Currently working as a Management Trainee Officer, building on my internship work with Power BI dashboards and Excel data models to support field-force sales, incentive, and business reporting for data-driven decisions.</td>
+</tr>
+<tr><td colspan="3"><br/></td></tr>
 <tr>
 <td>📈</td>
 <td><strong>AGP Limited</strong> — Data Analyst Intern</td>
@@ -117,7 +136,7 @@ class NofilAhmedKhan:
 </tr>
 <tr>
 <td></td>
-<td colspan="2">↳ Built an end-to-end AQI Prediction System for Karachi — data collection, feature engineering, ML pipelines, and a real-time interactive dashboard for air quality forecasting.</td>
+<td colspan="2">↳ Built an end-to-end AQI Prediction System for Karachi — multi-source data collection, feature engineering, Random Forest & XGBoost ML pipelines, and a real-time interactive dashboard for air quality forecasting.</td>
 </tr>
 <tr><td colspan="3"><br/></td></tr>
 <tr>
@@ -127,13 +146,13 @@ class NofilAhmedKhan:
 </tr>
 <tr>
 <td></td>
-<td colspan="2">↳ Designed interactive Looker Studio dashboards to track sales KPIs, helping the marketing team monitor campaign effectiveness and make data-driven decisions in real-time.</td>
+<td colspan="2">↳ Designed multi-page Looker Studio dashboards tracking 15+ sales KPIs, helping the marketing team monitor campaign effectiveness and make data-driven decisions in real-time.</td>
 </tr>
 <tr><td colspan="3"><br/></td></tr>
 <tr>
 <td>🎓</td>
 <td><strong>NED University — Data Insight Society</strong></td>
-<td align="right"><code>May 2024 – Present</code></td>
+<td align="right"><code>May 2024 – Jun 2026</code></td>
 </tr>
 <tr>
 <td></td>
@@ -195,6 +214,7 @@ class NofilAhmedKhan:
 | 🎖️ | Achievement / Certification | 🏛️ Issuer |
 |:--:|:----------------------------|:----------|
 | 🏆 | **PM Youth Laptop Scheme** — Awarded for Top Departmental Merit | Government of Pakistan |
+| 💻 | **AI Professional Certificate** | Google |
 | 🏅 | **Huawei Datacom Certified** | Huawei |
 | 🤖 | **Generative AI Fundamentals** | Databricks Academy |
 | 🦜 | **Introduction to LangChain (Python)** | LangChain Academy |
