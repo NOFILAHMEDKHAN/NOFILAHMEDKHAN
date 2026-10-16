@@ -36,7 +36,7 @@ class NofilAhmedKhan:
 
     currently_doing = [
         "💼 Management Trainee Officer @ AGP Limited",
-        "   ↳ Applying Power BI & Excel data models to field-force sales/incentive reporting",
+        "   ↳ Building & managing an internal portal and task management system for team workflows",
         "📈 Ex Data Analyst Intern @ AGP Limited",
         "🔬 Ex Data Science Intern @ 10Pearls — AQI Prediction System",
         "📊 Ex Data Analyst Intern @ Instec Digital Systems",
@@ -59,7 +59,6 @@ class NofilAhmedKhan:
 **💻 Programming Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -75,11 +74,19 @@ class NofilAhmedKhan:
 ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-222222?style=for-the-badge&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+<br/>
+
+**🧠 Generative AI & Agents**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logoColor=white)
+![Function Calling](https://img.shields.io/badge/Function%20Calling-00A67E?style=for-the-badge&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6F61?style=for-the-badge&logoColor=white)
 
 <br/>
 
@@ -88,6 +95,7 @@ class NofilAhmedKhan:
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br/>
 
@@ -96,8 +104,11 @@ class NofilAhmedKhan:
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-EB5424?style=for-the-badge&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
@@ -116,7 +127,7 @@ class NofilAhmedKhan:
 </tr>
 <tr>
 <td></td>
-<td colspan="2">↳ Currently working as a Management Trainee Officer, building on my internship work with Power BI dashboards and Excel data models to support field-force sales, incentive, and business reporting for data-driven decisions.</td>
+<td colspan="2">↳ Working as a Management Trainee Officer, developing and managing an internal portal and task management system — streamlining task assignment, tracking, and team workflows to improve operational efficiency and visibility across the organization.</td>
 </tr>
 <tr><td colspan="3"><br/></td></tr>
 <tr>
