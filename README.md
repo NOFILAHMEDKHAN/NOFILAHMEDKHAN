@@ -36,7 +36,7 @@ class NofilAhmedKhan:
 
     currently_doing = [
         "💼 Management Trainee Officer @ AGP Limited",
-        "   ↳ Building & managing an internal portal and task management system for team workflows",
+        "   ↳ Developed an internal portal & task management system; now working on automation, analytics & AI-focused development",
         "📈 Ex Data Analyst Intern @ AGP Limited",
         "🔬 Ex Data Science Intern @ 10Pearls — AQI Prediction System",
         "📊 Ex Data Analyst Intern @ Instec Digital Systems",
@@ -74,6 +74,7 @@ class NofilAhmedKhan:
 ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-222222?style=for-the-badge&logoColor=white)
+![ResNet](https://img.shields.io/badge/ResNet-E91E63?style=for-the-badge&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
@@ -123,11 +124,11 @@ class NofilAhmedKhan:
 <tr>
 <td>💼</td>
 <td><strong>AGP Limited</strong> — Management Trainee Officer</td>
-<td align="right"><code>Sep 2026 – Present</code></td>
+<td align="right"><code>Aug 2026 – Present</code></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">↳ Working as a Management Trainee Officer, developing and managing an internal portal and task management system — streamlining task assignment, tracking, and team workflows to improve operational efficiency and visibility across the organization.</td>
+<td colspan="2">↳ Developed an internal portal and task management system to streamline task assignment, tracking, and team workflows. Also working on automation and analytics projects, with a strong focus on AI-driven development and data analytics solutions.</td>
 </tr>
 <tr><td colspan="3"><br/></td></tr>
 <tr>
@@ -137,7 +138,7 @@ class NofilAhmedKhan:
 </tr>
 <tr>
 <td></td>
-<td colspan="2">↳ Built Power BI dashboards and relational Excel data models to analyze large-scale field-force sales, incentive, and doctor-visit data — including doctor record de-duplication, region-wise call tracking, and multi-file consolidation to support accurate, data-driven reporting.</td>
+<td colspan="2">↳ Built Power BI dashboards and relational Excel data models to analyze large-scale field-force sales, incentive, and doctor-visit data — including doctor record de-duplication, region-wise call tracking, and multi-file consolidation to support accurate, data-driven reporting. Also built a computer vision–based uniform detection model using YOLO and ResNet.</td>
 </tr>
 <tr><td colspan="3"><br/></td></tr>
 <tr>
@@ -261,4 +262,4 @@ class NofilAhmedKhan:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-</div>
+</div>s
