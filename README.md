@@ -28,7 +28,7 @@ class NofilAhmedKhan:
     name            = "Nofil Ahmed Khan"
     role            = "Software & AI Engineer"
     university      = "NED University of Engineering & Technology, Karachi"
-    cgpa            = 3.721
+    cgpa            =  3.721
     batch           = "Oct 2022 – Jun 2026"
     location        = "Karachi, Pakistan 🇵🇰"
 
