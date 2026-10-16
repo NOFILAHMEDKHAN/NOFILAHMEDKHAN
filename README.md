@@ -26,17 +26,17 @@
 class NofilAhmedKhan:
 
     name            = "Nofil Ahmed Khan"
-    role            = "AI / ML Engineer"
+    role            = "Software & AI Engineer"
     university      = "NED University of Engineering & Technology, Karachi"
     cgpa            = 3.721
     batch           = "Oct 2022 – Jun 2026"
     location        = "Karachi, Pakistan 🇵🇰"
 
-    focus_areas     = ["AI Agents", "Machine Learning", "Data Science", "NLP", "Computer Vision"]
+    focus_areas     = ["AI Agents", "Machine Learning", "Data Science", "NLP", "Computer Vision", "Data Analytics"]
 
     currently_doing = [
         "💼 Management Trainee Officer @ AGP Limited",
-        "   ↳ Developed an internal portal & task management system; now working on automation, analytics & AI-focused development",
+        "   ↳ Developed an internal web portals serving 2000+f field force & departmental task management system; also working on automation, analytics & AI-focused development",
         "📈 Ex Data Analyst Intern @ AGP Limited",
         "🔬 Ex Data Science Intern @ 10Pearls — AQI Prediction System",
         "📊 Ex Data Analyst Intern @ Instec Digital Systems",
